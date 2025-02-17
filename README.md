@@ -1,8 +1,5 @@
+*circuit2
 *circuit diagram:![Screenshot 2025-02-17 213134](https://github.com/user-attachments/assets/d39d4421-1025-4694-9a91-4ad12684b152)
-
-
-
-
 *Aim:*  Determine the DC operating point, and measure the gain using transient and AC analyses.
 
 *Components:* MOSFETs (M1 and M2), DC power supply.
